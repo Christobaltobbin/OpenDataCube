@@ -13,8 +13,8 @@ I wrote a python script which assesses Sentinel 2A data from microsoft planetory
 After computing for the NDVI and the LAI for the year 2023 I had the following NDVI(left) and LAI(right) values:
 
 <p align="center">
-  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/69ad5fef-536f-4bb4-805d-5262f01efbe4.png" align="left" width="395" height="350">
-  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/ab9739b7-5274-41da-82e3-eb21af8cca2f.png" align="right" width="395" height="350">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/69ad5fef-536f-4bb4-805d-5262f01efbe4.png" align="left" width="385" height="350">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/ab9739b7-5274-41da-82e3-eb21af8cca2f.png" align="right" width="385" height="350">
 </p>
 
 
@@ -22,8 +22,8 @@ After computing for the NDVI and the LAI for the year 2020 I had the following N
 
 
 <p align="center">
-  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/37164d1a-31a7-4394-93c5-81d26bebc178.png" align="left" width="395" height="350">
-  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/6fa60225-233f-45c3-80ab-fe18a1411fcd.png" align="right" width="395" height="350">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/37164d1a-31a7-4394-93c5-81d26bebc178.png" align="left" width="385" height="350">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/6fa60225-233f-45c3-80ab-fe18a1411fcd.png" align="right" width="385" height="350">
 </p>
 
 
@@ -33,8 +33,8 @@ The mean NDVi value for 2023 was 0.1285752 while that for 2020 was 0.2519004. Th
 The histograms also indicate that the vegetation in Janga has reduced from 2020 to 2023, below are the histogram showing the NDVIs of 2023(left) and 2020(right):
 
 <p align="center">
-  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/3a657b2b-8233-4451-9f61-1a46f0f2b4ad.png" align="left" width="395" height="350">
-  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/47e25118-c89b-49f7-8534-a9e0e0caef81.png" align="right" width="395" height="350">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/3a657b2b-8233-4451-9f61-1a46f0f2b4ad.png" align="left" width="385" height="350">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/47e25118-c89b-49f7-8534-a9e0e0caef81.png" align="right" width="385" height="350">
 </p>
 
 
