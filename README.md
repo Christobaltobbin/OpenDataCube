@@ -7,7 +7,7 @@ The Open Data Cube (ODC) is an open-source geospatial data management and analys
 Janga is a town located in the northeastern part of Ghana, specifically in the North East Region. It is situated at latitude 10°01'52"N and longitude 00°58'37"W. I chose the 30PYS sentinel two tile since Janga falls within it.
 
 ## Method
-I wrote a python script which assesses Sentinel 2A data from microsoft planetory computer ODC. Loaded the bands and performed math on them to compute the NDVI and LAI values of the studio region for 2023 and 2020 respectively. Then went ahead and computed the mean and standard deviations for the NDVI and LAI values and generated a histogram plot to compare the results. You can see the full script in the Scripts folder in this repository.
+I wrote a python script which assesses Sentinel 2A data from Microsoft Planetory Computer ODC. Loaded the bands and performed math on them to compute the NDVI and LAI values of the studio region for 2023 and 2020 respectively. Then went ahead and computed the mean and standard deviations for the NDVI and LAI values and generated a histogram plot to compare the results. You can see the full script in the Scripts folder in this repository.
 
 ## Results
 After computing for the NDVI and the LAI for the year 2023 I had the following NDVI(left) and LAI(right) values:
