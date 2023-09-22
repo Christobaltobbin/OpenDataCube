@@ -13,7 +13,7 @@ Janga is a town located in the northeastern part of Ghana, specifically in the N
 I wrote a python script which assesses Sentinel 2A data from microsoft planetory computer ODC. Loaded the bands and performed math on them to compute the NDVI and LAI values of the studio region for 2023 and 2020 respectively. Then went ahead and computed the mean and standard deviations for the NDVI and LAI values and generated a histogram plot to compare the results. You can see the full script in the Scripts folder in this repository.
 
 ## Results
-After computing for the NDVI and the LAI for the year 2023 I had the following NDVI and LAI values:
+After computing for the NDVI and the LAI for the year 2023 I had the following NDVI(left) and LAI(right) values:
 
 <p align="center">
   <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/69ad5fef-536f-4bb4-805d-5262f01efbe4.png" align="left" width="385" height="350">
@@ -21,7 +21,7 @@ After computing for the NDVI and the LAI for the year 2023 I had the following N
 </p>
 
 
-After computing for the NDVI and the LAI for the year 2020 I had the following NDVI and LAI values:
+After computing for the NDVI and the LAI for the year 2020 I had the following NDVI(left) and LAI(right) values:
 
 
 <p align="center">
@@ -31,6 +31,22 @@ After computing for the NDVI and the LAI for the year 2020 I had the following N
 
 
 The mean NDVi value for 2023 was 0.1285752 while that for 2020 was 0.2519004. This goes to say that the vegetation density in Janga for the year 2020 was greater than that of 2023. The NDVI standard deviation values for 2023 was 0.042866662 and 0.08545589 for 2020. The SDs indicate a higher vegetation variability in Janga for the year 2020 as compared to 2023. The mean LAI value for 2023 was 0.77312833 and for 2020 was 1.0476407, also the standard deviation values were 0.08413831 and 0.2474938 respectively. These results follow the pattern of the NDVI values indicating that there has been a reduction in vegeation in Janga from 2020 to 2023.
+
+
+The histograms also indicate that the vegetation in Janga has reduced from 2020 to 2023, below are the histogram showing the NDVIs of 2023(left) and 2020(right):
+
+<p align="center">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/3a657b2b-8233-4451-9f61-1a46f0f2b4ad.png" align="left" width="385" height="350">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/47e25118-c89b-49f7-8534-a9e0e0caef81.png" align="right" width="385" height="350">
+</p>
+
+
+Below are the LAI histograms for 2023(left) and 2020(right):
+
+<p align="center">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/4dd6b76e-a2e0-4f4b-bd41-65d56fcb6977.png" align="left" width="385" height="350">
+  <img src="https://github.com/Christobaltobbin/Drought_Assessment/assets/116877317/fba1737d-54e1-45e7-bdab-e8c72259030a.png" align="right" width="385" height="350">
+</p>
 
 ## Conclusion
 The results from the study shows that there has been a reduction in vegeation density and health in Janga from 2020 to 2023.
